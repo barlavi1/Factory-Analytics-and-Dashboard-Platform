@@ -20,7 +20,3 @@ The Factory Analytics and Dashboard Platform is a next-generation, AI-driven sol
 - User-friendly UI with customizable dashboards and reporting
 - Role-based access, audit trails, and data minimization
 - Ready for cloud, hybrid, or on-prem deployments
-
-## Getting Started
-
-1. **Clone the repository**
