@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The Factory Analytics and Dashboard Platform is an AI-powered solution designed to securely connect with any factory data source—including ERP, MES, IoT, or data warehouses. The platform automatically infers database structures and relationships using AI, machine learning, and automated metadata analysis, even when schemas are incomplete, missing, or inconsistently named. Its core features include dynamic, customizable dashboards for production KPIs and business insights, powerful natural language querying, actionable AI-driven recommendations, multi-tenant security, and full privacy compliance. It supports cloud (AWS-native) or hybrid deployments, offers rich integration and extension points, and is architected for enterprise scalability and operation across diverse manufacturing environments.
+The Factory Analytics and Dashboard Platform is an AI-powered solution designed to securely connect with any factory data source—including ERP, MES, IoT, data warehouses, or other databases. The platform automatically infers database structures and relationships using AI, machine learning, and automated metadata analysis, even when schemas are incomplete, missing, or inconsistently named. Its core features include dynamic, customizable dashboards for production KPIs and business insights, powerful natural language querying, actionable AI-driven recommendations, multi-tenant security, and full privacy compliance. It supports cloud (AWS-native) or hybrid deployments, offers rich integration and extension points, and is architected for enterprise scalability and operation across diverse manufacturing environments.
 
 ## Requirements
 
